@@ -1,2 +1,19 @@
-
-/* Your CSS Code here. */
+.moviePic{
+	height:340px;
+	width:560px;
+	opacity:cadetblue;
+}
+.movieDetail{
+	  position: relative;
+      top: 30px;
+      width: 100%;
+      margin: 0 auto;
+      text-align: center;
+      font-size: 2.2rem;
+      line-height: .6;
+      color: #ddd;
+      background-color: rgba(0, 0, 0, 0.5);
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+}
